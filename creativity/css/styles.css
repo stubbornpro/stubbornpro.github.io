@@ -1,0 +1,14 @@
+.creativity-item {
+	/*margin: 1.5em 0;*/
+}
+
+.creativity-item-desciption {
+	font-size: 10px; 
+	color: #616161; 
+	display: block; 
+}
+
+.creativity-item-desciption::before {
+	content: ">> ";
+	margin-right: 10px;
+}
